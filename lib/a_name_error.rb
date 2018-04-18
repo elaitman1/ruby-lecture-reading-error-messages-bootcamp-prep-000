@@ -1,4 +1,4 @@
 def hello_world(str)
   p "stuff"
 end
-puts hellow_world("hello world")
+puts hello_world("hello world")
